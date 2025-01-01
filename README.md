@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Y1hy1
-- 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning frontend web devlopment
+- 👋 Hi, I’m interested in web development 
 
 <!---
 Y1hy1/Y1hy1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
